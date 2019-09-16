@@ -14,7 +14,7 @@ hidden: true
 **Amount of time**:  60 minutes  <br/>
 **Author**: Laura Colon-Melendez, Greg Damico, Alison Peebles Madigan
 
-Ported from starter repos: [link](link) and [link](link)
+Ported from starter repos: [link](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/mathematic_foundations/linear_algebra) and [link](https://github.com/learn-co-curriculum/ds-lessons-starter/tree/master/mathematic_foundations/linear_algebra2)
 
 ***
 
@@ -30,8 +30,23 @@ Statistical Modeling - Linear Algebra
 
 #### Learn.co material:
 
-_Add here_
+[Motivation for Linear Algebra in Data Science](https://github.com/learn-co-curriculum/dsc-lingalg-motivation)
 
+[Systems of Linear Equations](https://github.com/learn-co-curriculum/dsc-lingalg-linear-equations)
+
+[Systems of Linear Equations - Quiz](https://github.com/learn-co-curriculum/dsc-lingalg-linear-equations-quiz)
+
+[Scalars, Vectors, Matrices, and Tensors - Code Along](https://github.com/learn-co-curriculum/dsc-scalars-vectors-matrices-tensors-codealong)
+
+[Vectors and Matrices in Numpy - Lab](https://github.com/learn-co-curriculum/dsc-linalg-vector-matrices-numpy-lab)
+
+[Matrix Multiplication - Code Along](https://github.com/learn-co-curriculum/dsc-linalg-mat-multiplication-codealong)
+
+[Properties of Dot Product - Lab](https://github.com/learn-co-curriculum/dsc-linalg-dot-product-properties-lab)
+
+[Solving Systems of Linear Equations with Numpy - Code Along](https://github.com/learn-co-curriculum/dsc-lineq-numpy-codealong)
+
+[Solving Systems of Linear Equations with Numpy - Lab](https://github.com/learn-co-curriculum/dsc-lineq-numpy-lab)
 
 #### Prerequisite knowledge:
 
@@ -40,7 +55,11 @@ Students should have a grasp of simple algebra problems and how to solve them. T
 
 #### Prerequisite Learn.co material:
 
-_Add here_ 
+[Introduction to NumPy](https://github.com/learn-co-curriculum/dsc-introduction-to-numpy)
+
+[Getting Started with NumPy](https://github.com/learn-co-curriculum/dsc-getting-started-with-numpy)
+
+[Getting Started with NumPy - Lab](https://github.com/learn-co-curriculum/dsc-getting-started-with-numpy)
 
 
 #### Learning goals for this lesson:
@@ -53,7 +72,7 @@ _Add here_
 
 * Students can use NumPy to solve systems of linear equations. 
 
-* Students can use matrix algebra and NumPy to calculate the parameter values for simple linear regression. 
+* _Optional_: Students can use matrix algebra and NumPy to calculate the parameter values for simple linear regression. 
 
 
 #### Relevant learning goals from Airtable: 
